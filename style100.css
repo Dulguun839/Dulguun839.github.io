@@ -1,0 +1,58 @@
+body{
+margin: 0px 30px; 
+}
+.div1{
+background-color: white;
+height:100px;
+width:100px;
+float:left;
+
+}
+.container {
+	width: 100%;
+	margin: 0 auto;
+	padding: 0 15px;
+}
+.left {
+	float: left;
+}
+.right {
+	float: right;
+}
+.clr {
+	clear: both;
+}
+.top {
+	border-bottom: 1px solid #e1e1e1;
+	background: #ccc;
+	padding: 10px 0;
+}
+.social {
+}
+.busad {
+}
+.menu {
+	background: aqua;
+	margin-top: 5px;
+}		
+.menu ul {
+	margin: 0;
+	padding: 0;
+}
+.menu li {
+	display: inline-block;
+}
+.menu li a {
+	color: #fff;font-size: 14px;
+	font-weight: bold;
+	text-transform: uppercase;
+	font-family: arial, serif, sans-serif;
+	padding: 10px 15px;
+	display: block;
+}
+.menu li a:hover {
+	background: #ff0000;
+}
+.tom{
+	margin-top: 10px;
+}
